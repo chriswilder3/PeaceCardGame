@@ -1,12 +1,5 @@
 # Peace - A Twist on the Classic War Card Game
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Peace - Card Game</title>
-</head>
-<body>
-  <h1>Peace - A Twist on the Classic War Card Game</h1>
   <p><strong>Peace</strong> is a simple, text-based Python game inspired by the classic card game "War," but with a peaceful twist! Players pit cards against each other in rounds, with the higher card winning the round and the lower card switching hands. The game ends in "Peace" if both players draw cards of the same rank.</p>
 
   <h2>Features</h2>
@@ -37,5 +30,3 @@
   </ul>
 
   <p>Happy coding and may the Peace be with you!</p>
-</body>
-</html>
